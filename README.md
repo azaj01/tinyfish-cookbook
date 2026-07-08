@@ -182,6 +182,7 @@ These use the latest TinyFish SDK and are deployed with live demos you can try r
 | [logistics-sentry](./logistics-sentry) | Port congestion and carrier-risk tracking |
 | [tenders-finder](./tenders-finder) | Singapore government tender discovery across multiple portals |
 | [finsight](./finsight) | Vietnamese B2B market intel — leasing, competitor pricing, SME loans, SBV regulatory briefs with source preflight |
+| [monai](./monai) | Vietnam F&B trend intelligence — menu gaps, forecasts, regional compare, supplier discovery ([live demo](https://mon-ai-alpha.vercel.app/)) |
 
 ### Education & Discovery
 
